@@ -3,7 +3,7 @@ import time
 import random
 import PySimpleGUI as sg
 
-HOST = '192.168.29.103'  # Endereço IP do servidor
+HOST = 'localhost'  # Endereço IP do servidor
 PORT = 8007  # Porta que o servidor está escutando
 
 # Define a interface
